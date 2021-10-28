@@ -3,7 +3,9 @@
 Najot Ta'lim video kurslari beta applicationni.<br>
 Ushbu dastur example sifatida yasaldi, realprojectning mantig'ini tushintirish sifatida.
 <br>
+
 ## dark mode
+
 <h2> Home page: </h2>
 <a href="https://user-images.githubusercontent.com/85457481/139291650-70ba15b3-353d-4661-826e-8ddf11bdc9f9.jpg"><img src="https://user-images.githubusercontent.com/85457481/139291650-70ba15b3-353d-4661-826e-8ddf11bdc9f9.jpg" width="200" border="0"></a>
 <br>
@@ -19,7 +21,9 @@ Ushbu dastur example sifatida yasaldi, realprojectning mantig'ini tushintirish s
 <a href="https://user-images.githubusercontent.com/85457481/139291562-043e7a60-4407-44ce-953f-91ba06f8d84f.jpg"><img src="https://user-images.githubusercontent.com/85457481/139291562-043e7a60-4407-44ce-953f-91ba06f8d84f.jpg" width="200" border="0"></a>
 <br>
 <br>
+
 ## light mode
+
 <h2> Home page: </h2>
 <a href="https://user-images.githubusercontent.com/85457481/139293187-4c62707d-7c6d-4f2b-ae90-cfdc7e26a03e.jpg"><img src="https://user-images.githubusercontent.com/85457481/139293187-4c62707d-7c6d-4f2b-ae90-cfdc7e26a03e.jpg" width="200" border="0"></a>
 <br>
