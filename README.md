@@ -2,7 +2,9 @@
 
 Najot Ta'lim video kurslari beta applicationni.<br>
 Ushbu dastur example sifatida yasaldi, realprojectning mantig'ini tushintirish sifatida.
-<br>
+<br><br>
+**Yuklab olish uchun:**
+https://github.com/Luxsidos/najot_talim_app_beta/files/7435730/app-armeabi-v7a-release.zip
 
 ## dark mode
 
